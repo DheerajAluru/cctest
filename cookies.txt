@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.classcentral.com	TRUE	/	FALSE	1999999999	PHPSESSID	gci6vap820trndv1agt6q5dpcb
+www.classcentral.com	TRUE	/	FALSE	1999999999	samesite	lax
+
